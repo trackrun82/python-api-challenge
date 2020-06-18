@@ -1,6 +1,6 @@
 # python-api-challenge
 
-This challenge was to the OpenWeather API to look at several relationships:
+This challenge was to use the OpenWeather API to look at several relationships:
 * Temperature (F) vs. Latitude
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
